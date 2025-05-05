@@ -1,13 +1,17 @@
-# PRO2_Assignment3
-This repository contains my solution for Assignment 3 in the PRO2 course.
+# PRO2 – Assignment 3
 
-📌 Topics covered:
-Proxy Pattern
+This repository contains my solution for **Assignment 3** in the PRO2 course.
 
-Adapter Pattern
+---
 
-Producer–Consumer Problem
+## 📌 Topics Covered
 
-Readers–Writers Problem
+- **Proxy Pattern**  
+- **Adapter Pattern**  
+- **Producer–Consumer Problem**  
+- **Readers–Writers Problem**  
+- **Unit Testing**  
 
-Unit Testing
+---
+
+Through this assignment, I strengthened my understanding and implementation skills in these advanced programming concepts.  
